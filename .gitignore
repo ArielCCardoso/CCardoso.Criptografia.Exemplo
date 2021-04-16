@@ -1,0 +1,5 @@
+﻿**/*.pem
+**/*id_rsa*
+bin/
+obj/
+.vs
