@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCardoso.Criptografia.Exemplo", "CCardoso.Criptografia.Exemplo.csproj", "{A5D0CB30-3AE5-4D75-B0B1-C0E54E28361A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D0CB30-3AE5-4D75-B0B1-C0E54E28361A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D0CB30-3AE5-4D75-B0B1-C0E54E28361A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D0CB30-3AE5-4D75-B0B1-C0E54E28361A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D0CB30-3AE5-4D75-B0B1-C0E54E28361A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA1199D2-85AC-453E-B54E-0A8D7F64257D}
+	EndGlobalSection
+EndGlobal
